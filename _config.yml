@@ -1,7 +1,7 @@
 name: Sketchin
 favicon: null
-layout_spectrum: 0.7801801429595798
-typography_spectrum: 0.45829611527733505
+layout_spectrum: 0.2442
+typography_spectrum: 0.40352
 title: Sketchin
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#dc5b4c'
   brandStrength: 0.6875
   lightness: 0.5514975390397012
-  saturation: 0.5525547887664288
+  saturation: 0.3125
   rhythmicContrast: 0.9351851670071483
 purpose: []
